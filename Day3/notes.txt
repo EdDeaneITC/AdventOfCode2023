@@ -1,0 +1,5 @@
+Currently resulting as about 550 more than it should be
+Figure this is probably because the join to the symbols is over
+matching albeit can't see anything wrong with the join at the moment
+Next Steps:
+1. Use the example to work out which numbers are failing
